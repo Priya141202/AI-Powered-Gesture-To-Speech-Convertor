@@ -1,0 +1,5 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+DOWN_4.jpg,800,600,DOWN,2,191,800,532
+FORWARD_3.jpg,800,600,FORWARD,1,140,757,600
+REVERSE_1.jpg,800,600,REVERSE,160,105,527,600
+UP_3.jpg,800,600,UP,217,49,678,600
